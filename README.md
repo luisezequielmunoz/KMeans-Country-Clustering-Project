@@ -1,5 +1,9 @@
 # KMeans implementation: Country clustering project
 
+
+![I_love_it-cover-photo-22317](https://user-images.githubusercontent.com/66885480/218329458-661fc086-e597-4f4c-a363-da04130203bd.jpeg)
+
+
 ## About the project
 Obtain insights into similarity between countries of the world by experimenting with different number of clusters and features.
 
